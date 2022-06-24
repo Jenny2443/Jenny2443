@@ -1,5 +1,5 @@
 ### Hi there 👋
-👋🏻 I'am Jennifer, currently a Computer Science student at UPM
+👋🏻 I'am Jennifer, currently a Computer Science student at UPM (Polytechnic University of Madrid)
 
 🌱 I’m currently learning programming languages like Java, Python... 
 
