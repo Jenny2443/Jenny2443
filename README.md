@@ -1,5 +1,10 @@
 ### Hi there 👋
+👋🏻 I'am Jennifer, currently a Computer Science student at UPM
 
+🌱 I’m currently learning programming languages like Java, Python... 
+
+📫 How to reach me: 
+    Instagram: Jenny_2443 
 <!--
 **Jenny2443/Jenny2443** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
