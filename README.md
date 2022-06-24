@@ -3,6 +3,8 @@
 
 🌱 I’m currently learning programming languages like Java, Python... 
 
+🏁 Love IT, though passionate about cybersecurity and e-health
+
 📫 How to reach me: 
     Instagram: Jenny_2443 
 <!--
