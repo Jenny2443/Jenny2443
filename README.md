@@ -7,6 +7,7 @@
 
 📫 How to reach me: 
     Instagram: Jenny_2443 
+    Linkedin: www.linkedin.com/in/jennifer-zhao-jin
 <!--
 **Jenny2443/Jenny2443** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
