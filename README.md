@@ -3,7 +3,7 @@
 
 - 📫 How to reach me **Linkedin: www.linkedin.com/in/jennifer-zhao-jin**
 
-- ⚡ Fun fact: **Love IT, though passionate about cybersecurity and e-health**
+- ⚡ Fun fact: **Love IT, passionate about cybersecurity, mobile app development and e-health**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
