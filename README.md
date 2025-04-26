@@ -1,9 +1,15 @@
 <h1 align="center">Hi 👋, I'm Jennifer</h1>
 <h3 align="center">currently a Computer Science student at UPM (Polytechnic University of Madrid)</h3>
 
-- 📫 How to reach me **Linkedin: www.linkedin.com/in/jennifer-zhao-jin**
+<p align="center">
+I'm a final-year Computer Science student at the Polytechnic University of Madrid (UPM). I'm passionate about technology and have focused my studies and projects on areas like Java, Python, and a bit of Bash and C. I have experience working with RESTful APIs, both in their implementation and consumption, and I've also explored working within AWS environments. 
+</p>
 
-- ⚡ Fun fact: **Love IT, passionate about cybersecurity, mobile app development**
+<p align="center">
+Beyond the world of code, I'm a big sports enthusiast. I find that staying active helps me stay focused and brings balance to my life. 🏐🥋
+</p>
+
+- 📫 How to reach me **Linkedin: www.linkedin.com/in/jennifer-zhao-jin**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -11,4 +17,6 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p> <a href="https://developer.android.com/studio?hl=es-419" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/c/c1/Android_Studio_icon_%282023%29.svg" alt="Android Studio" width="55" height="55"/> </a>
+<p align="left">
+<img src="https://cdn.worldvectorlogo.com/logos/java.svg" alt="java" width="60" height="60"/> </a> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="60" height="60"/> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJFDJLaUHfkk5JOqF2RTfK4m3RgHi3kM7Txw&s" alt="Bash" width="60"</a> </p> <a href="https://developer.android.com/studio?hl=es-419" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/c/c1/Android_Studio_icon_%282023%29.svg" alt="Android Studio" width="55" height="60"/> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2xQcwKitRgXfqdi34DYlocPSEXD2G2zZipg&s" alt="Android Studio" height="60"/></a> </a>
+</p>
